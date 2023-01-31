@@ -1,0 +1,19 @@
+*{
+  padding:0;
+  box-sizing: border-box;
+}
+html{
+  scroll-behavior: smooth;
+}
+body{
+  margin: 1rem 2rem;
+  background-color:skyblue;
+}
+nav{
+  justify-content: space-around;
+  align-items: center;
+  min-height: 5vh;
+  background-image: linear-gradient(to right, rgb(12, 8, 255) , rgb(192, 1, 1));
+  color: white;
+  
+}
